@@ -198,7 +198,7 @@ Tools and libraries that help measure, monitor, and report the energy consumptio
 
     *Year*: 2024
 
-    *Paper*: arXiv:2403.04736
+    *Paper*: `arXiv:2403.04736`
 
 <br>
 
@@ -230,19 +230,19 @@ Tools and libraries that help measure, monitor, and report the energy consumptio
 
     *Year*: 2022
 
-    *Paper*: arXiv:2111.05850
+    *Paper*: `arXiv:2111.05850`
 
 <br>
 
 ## 🧠 Motivation & Broader Impact
 
-- [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/pdf/2111.00364)
+- [Misinformation by Omission: The Need for More Environmental Transparency in AI](https://arxiv.org/pdf/2506.15572)
 
-    *Authors*: Carole-Jean Wu, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani, Kiwan Maeng, Gloria Chang, Fiona Aga Behram, James Huang, Charles Bai, Michael Gschwind, Anurag Gupta, Myle Ott, Anastasia Melnikov, Salvatore Candido, David Brooks, Geeta Chauhan, Benjamin Lee, Hsien-Hsin S. Lee, Bugra Akyildiz, Maximilian Balandat, Joe Spisak, Ravi Jain, Mike Rabbat, Kim Hazelwood.
+    *Authors*: Sasha Luccioni, Boris Gamazaychikov, Theo Alves da Costa, Emma Strubell.
 
-    *Year*: 2021
+    *Year*: 2025
 
-    *Paper*: `arXiv:2111.00364`
+    *Paper*: `arXiv:2506.15572`
 
 <br>
 
@@ -263,6 +263,16 @@ Tools and libraries that help measure, monitor, and report the energy consumptio
     *Year*: 2023
 
     *Paper*: `arXiv:2304.03271`
+
+<br>
+
+- [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/pdf/2111.00364)
+
+    *Authors*: Carole-Jean Wu, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani, Kiwan Maeng, Gloria Chang, Fiona Aga Behram, James Huang, Charles Bai, Michael Gschwind, Anurag Gupta, Myle Ott, Anastasia Melnikov, Salvatore Candido, David Brooks, Geeta Chauhan, Benjamin Lee, Hsien-Hsin S. Lee, Bugra Akyildiz, Maximilian Balandat, Joe Spisak, Ravi Jain, Mike Rabbat, Kim Hazelwood.
+
+    *Year*: 2021
+
+    *Paper*: `arXiv:2111.00364`
 
 <br>
 
