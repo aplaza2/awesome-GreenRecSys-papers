@@ -8,7 +8,7 @@ A curated list of papers and resources about Green AI applied to Recommender Sys
 - [📚 Research on Recommender Systems](#-research-on-recommender-systems)
 - [🔬 Green AI Optimization Research](#-green-ai-optimization-research)
 - [🧠 Motivation & Broader Impact](#-motivation--broader-impact)
-- [♻️ Tutorial: How to Estimate Environmental Footprints](#️tutorial-how-to-estimate-environmental-footprints)
+- [♻️ Tutorial: How to Estimate Environmental Footprints](#️-tutorial-how-to-estimate-environmental-footprints)
 
 
 
@@ -57,6 +57,8 @@ A hand-picked selection of must-read papers and tools at the intersection of Gre
 
 ## 🛠️ Footprint Trackers
 Tools and libraries that help measure, monitor, and report the energy consumption and carbon emissions of machine learning experiments — with potential applications to recommender systems. These tools support transparency and help practitioners make greener design choices.
+
+It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedback Tools through the Lens of Sustainable HCI* (2025)](https://dl.acm.org/doi/10.1145/3706598.3713198), which benchmarks different eco-feedback tools in machine learning.
 
  - [CodeCarbon](https://codecarbon.io/)
 
