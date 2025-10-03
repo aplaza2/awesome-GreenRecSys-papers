@@ -143,6 +143,34 @@ It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedba
 
 ## 📚 Research on Recommender Systems
 
+- [Investigating Carbon Footprint of Recommender Systems Beyond Training Time](https://dl.acm.org/doi/full/10.1145/3705328.3759324)
+
+    *Authors*: Josef Schodl, Oleg Lesota, Antonela Tommasel, Markus Schedl
+
+    *Year*: 2025
+
+    *Paper*: `doi/10.1145/3705328.3759324`
+
+<br>
+
+- [Balanced Public Service Media Recommendation Trade-offs with a Light Carbon Footprint](https://dl.acm.org/doi/full/10.1145/3705328.3748106)
+
+    *Authors*: Marcel Hauck, Michael Huber, Juri Diels, David Wittenberg, Dietmar Jannach
+
+    *Year*: 2025
+
+    *Paper*: `doi/10.1145/3705328.3748106`
+
+<br>
+
+- [Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation](https://dl.acm.org/doi/10.1145/3735144)
+
+    *Authors*: Raoul Kalisvaart, Masoud Mansoury, Alan Hanjalic, Elvin Isufi.
+
+    *Year*: 2025
+
+    *Paper*: `doi.org/10.1145/3735144`
+
 - [Green Recommender Systems: Optimizing Dataset Size for Energy-Efficient Algorithm Performance](https://arxiv.org/pdf/2410.09359)
 
     *Authors*: Ardalan Arabzadeh, Tobias Vente, Joeran Beel.
