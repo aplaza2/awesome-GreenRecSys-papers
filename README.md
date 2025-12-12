@@ -244,6 +244,26 @@ It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedba
 
 ## 🔬 Green AI Optimization Research
 
+- [Carbon Emission Quantification of Machine Learning: A Review](https://ieeexplore.ieee.org/document/11030805)
+
+    *Authors*: Syed Mhamudul Hasan, Taminul Islam, Khaled R. Ahmed, Chun-Hsi Huang; Abdur R. Shahid.
+
+    *Year*: 2025
+
+    *Paper*: `10.1109/TSUSC.2025.3578834`
+
+<br>
+
+- [Strategies of Automated Machine Learning for Energy Sustainability in Green Artificial Intelligence](https://www.mdpi.com/2076-3417/14/14/6196)
+
+    *Authors*: Dagoberto, Castellanos-Nieves, Luis García-Forte.
+
+    *Year*: 2024
+
+    *Article*: `10.3390/app14146196`
+
+<br>
+
 - [Carbon Aware Transformers Through Joint Model-Hardware Optimization](https://arxiv.org/pdf/2505.01386)
 
     *Authors*: Irene Wang, Newsha Ardalani, Mostafa Elhoushi, Daniel Jiang, Samuel Hsia, Ekin Sumbul, Divya Mahajan, Carole-Jean Wu, Bilge Acun.
@@ -264,7 +284,27 @@ It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedba
 
 <br>
 
+- [Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning](https://arxiv.org/abs/2002.05651)
+
+    *Authors*: Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, Joelle Pineau.
+
+    *Year*: 2021
+
+    *Paper*: `arXiv:2002.05651`
+
+<br>
+
 ## 🧠 Motivation & Broader Impact
+
+- [Assessing awareness of environmental sustainability in machine learning research](https://link.springer.com/article/10.1007/s11280-025-01350-2)
+
+    *Authors*: Elio Masciari, Enea Vincenzo Napolitano
+
+    *Year*: 2025
+
+    *Paper*: `doi.org/10.1007/s11280-025-01350-2`
+
+<br>
 
 - [Misinformation by Omission: The Need for More Environmental Transparency in AI](https://arxiv.org/pdf/2506.15572)
 
