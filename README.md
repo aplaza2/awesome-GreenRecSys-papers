@@ -242,6 +242,17 @@ It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedba
 
 <br>
 
+- [GreenSeq: Automatic Design of Green Networks for Sequential Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591855)
+
+    *Authors*: Yankun Ren, Xinxing Yang, Xingyu Lu, Longfei Li, Jun Zhou, Jinjie Gu, Guannan Zhang
+
+    *Year*: 2023
+
+    *Paper*: `doi/10.1145/3539618.3591855`
+
+
+<br>
+
 ## 🔬 Green AI Optimization Research
 
 - [Carbon Emission Quantification of Machine Learning: A Review](https://ieeexplore.ieee.org/document/11030805)
@@ -295,6 +306,16 @@ It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedba
 <br>
 
 ## 🧠 Motivation & Broader Impact
+
+- [A systematic review of Green Machine Learning: practices and challenges for sustainability](https://link.springer.com/article/10.1007/s10462-026-11515-8#article-info)
+
+    *Authors*: Samara Santos, André L. C. Ottoni, Rita Borgo, Danton Ferreira, Erivelton Nepomuceno
+    
+    *Year*: 2026
+
+    *Paper*: `doi/10.1007/s10462-026-11515-8`
+
+<br>
 
 - [Assessing awareness of environmental sustainability in machine learning research](https://link.springer.com/article/10.1007/s11280-025-01350-2)
 
