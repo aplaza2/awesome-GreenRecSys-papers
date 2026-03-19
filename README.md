@@ -142,6 +142,15 @@ It is recommended to review [*A Critical Analysis of Machine Learning Eco-feedba
 
 
 ## 📚 Research on Recommender Systems
+- [Sustainability Evaluation Metrics for Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-032-13342-7_2#Sec2)
+
+   *Authors*: Alexander Felfernig, Damian Garber, Viet-Man Le, Sebastian Lubos & Thi Ngoc Trang Tran 
+
+    *Year*: 2026
+
+    *Paper*: `doi.org/10.1007/978-3-032-13342-7_2`
+
+<br>
 
 - [Investigating Carbon Footprint of Recommender Systems Beyond Training Time](https://dl.acm.org/doi/full/10.1145/3705328.3759324)
 
